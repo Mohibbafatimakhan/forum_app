@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753456964320",
+    "project_id": "assignment2-forum-app",
+    "storage_bucket": "assignment2-forum-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753456964320:android:29d53ec34265189c136685",
+        "android_client_info": {
+          "package_name": "Forum.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrbpKKzwtts_4lxlvHWkCCL6b7_Wap1Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753456964320:android:ae11b1a7eeb4aa2d136685",
+        "android_client_info": {
+          "package_name": "com.example.forum_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrbpKKzwtts_4lxlvHWkCCL6b7_Wap1Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

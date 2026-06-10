@@ -1,0 +1,39 @@
+name: forum_app
+description: "Forum Application using Firebase and Bloc"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_module:
+    path: ./firebase_module
+
+  cupertino_icons: ^1.0.8
+
+  # Firebase
+  firebase_core: ^4.0.0
+  firebase_auth: ^6.0.0
+  cloud_firestore: ^6.0.0
+
+  # Bloc
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+  # Testing
+  mockito: ^5.4.6
+  build_runner: ^2.5.4
+
+flutter:
+  uses-material-design: true
